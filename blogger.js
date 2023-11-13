@@ -1,4 +1,4 @@
-/*! AJAX Search Widget for Blogger V2 <https://dte-project.github.io/blogger/search.html> */
+/*! AJAX Search Widget for Blogger V1 <https://github.com/ShirokamiRyzen/Ajax-Search-JS> */
 !(function (e, t) {
     function r(e, t) {
         function r(e) {
